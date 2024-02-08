@@ -2,7 +2,7 @@
   "pluginType": "INTERNAL",
   "pluginId": "Workflow",
   "unpublishedAction": {
-    "name": "WorkflowsQuery1",
+    "name": "test_discard",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "Workflow",
@@ -50,7 +50,7 @@
     "userPermissions": [],
     "createdAt": "2024-02-08T04:55:30Z"
   },
-  "id": "Page1_WorkflowsQuery1",
+  "id": "Page1_test_discard",
   "deleted": false,
   "gitSyncId": "65c45eb973b0ff0cacc5096e_65c45ec273b0ff0cacc5097a"
 }
