@@ -143,7 +143,6 @@
                 "iconAlign": "left",
                 "position": 3,
                 "isDisabled": false,
-                "sourceData": null,
                 "fieldType": "Text Input"
             },
             "latitude": {
